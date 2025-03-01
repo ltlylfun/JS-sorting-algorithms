@@ -1,0 +1,17 @@
+{
+  "name": "js-sorting-algorithms",
+  "version": "1.0.0",
+  "description": "JavaScript排序算法测试",
+  "main": "sort.js",
+  "scripts": {
+    "start": "node performance.js",
+    "test": "node performance.js"
+  },
+  "keywords": [
+    "sorting",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
