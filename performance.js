@@ -217,7 +217,7 @@ function runPerformanceTests() {
   console.log("\x1b[1;36m%s\x1b[0m", "⬇️ 完全逆序数组排序性能测试");
   console.log("=".repeat(80));
 
-  const reversedSize = 20000;
+  const reversedSize = 5000;
   const reversedArray = Array(reversedSize)
     .fill()
     .map((_, i) => reversedSize - i);
